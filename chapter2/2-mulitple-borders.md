@@ -5,7 +5,7 @@
     2. 投影不影响布局，而且也不会受到 box-sizing 属性的影响，为了保证投影能完整显示，需要给元素加内或外边距。
     3. “假”边框不会响应鼠标事件（悬停、点击）
 
-* outline 方案
+* outline 方案  
     与方案 1 相比  
     优势：可使用虚线边框；可边框与元素的距离 outline-offset  
     劣势：只能加到双层；边框不贴合元素的圆角
@@ -61,3 +61,4 @@
 
 <div class="mybox"></div>
 <div class="mybox1"></div>
+<p>[Back to CSS-Secrets-Example](http://hdwills.com/CSS-Secrets-Example/)</p>
