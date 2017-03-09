@@ -40,6 +40,7 @@
   background-position: right bottom;
   background-origin: content-box;
 }
+
 .img-box-4 {
   width: 180px;
   height: 128px;
@@ -86,6 +87,7 @@
   background-position: right bottom;
   background-origin: content-box;
 }
+
 .img-box-4 {
   width: 180px;
   height: 128px;
