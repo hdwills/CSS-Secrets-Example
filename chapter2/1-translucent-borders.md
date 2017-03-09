@@ -1,4 +1,4 @@
-# Translucent borders
+# Translucent borders (chapter2 - 1)
 
 默认背景会延伸到边框所在的区域下层，即使你用的不透明的实色边框。  
 背景并没有从半透明的边框处透上来。  
@@ -25,7 +25,7 @@ background-clip: border-box(默认值) / padding-box
 .mybox {
   width: 50px;
   height: 50px;
-  border: 5px dashed rgba(0, 0, 0, .5);
+  border: 5px dashed rgba(0,0,0,.5);
   background: #999;
   background-clip: padding-box;
 }
@@ -40,12 +40,16 @@ background-clip: border-box(默认值) / padding-box
 .mybox1 {
   width: 50px;
   height: 50px;
-  border: 5px dashed rgba(0, 0, 0, .5);
+  border: 5px dashed rgba(0,0,0,.5);
   background: #999;
 }
 ```
 
 <style>
+* {
+  box-sizing: content-box;
+}
+
 .wrap {
   width: 60px;
   height: 60px;
@@ -55,7 +59,7 @@ background-clip: border-box(默认值) / padding-box
 .mybox {
   width: 50px;
   height: 50px;
-  border: 5px dashed rgba(0, 0, 0, .5);
+  border: 5px dashed rgba(0,0,0,.5);
   background: #999;
   background-clip: padding-box;
 }
@@ -70,10 +74,11 @@ background-clip: border-box(默认值) / padding-box
 .mybox1 {
   width: 50px;
   height: 50px;
-  border: 5px dashed rgba(0, 0, 0, .5);
+  border: 5px dashed rgba(0,0,0,.5);
   background: #999;
 }
 </style>
+
 <div class="wrap1">
   <div class="mybox1"></div>
 </div>
