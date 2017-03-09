@@ -98,3 +98,5 @@
 <div class="img-box-2"></div>
 <div class="img-box-3"></div>
 <div class="img-box-4"></div>
+
+<div style="margin-top: 2em"><a href="http://hdwills.com/CSS-Secrets-Example/">Back to CSS-Secrets-Example</a></div>

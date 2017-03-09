@@ -61,4 +61,5 @@
 
 <div class="mybox"></div>
 <div class="mybox1"></div>
-<p>[Back to CSS-Secrets-Example](http://hdwills.com/CSS-Secrets-Example/)</p>
+
+<div style="margin-top: 2em"><a href="http://hdwills.com/CSS-Secrets-Example/">Back to CSS-Secrets-Example</a></div>

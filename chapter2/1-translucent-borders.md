@@ -86,3 +86,5 @@ background-clip: border-box(默认值) / padding-box
 <div class="wrap">
   <div class="mybox"></div>
 </div>
+
+<div style="margin-top: 2em"><a href="http://hdwills.com/CSS-Secrets-Example/">Back to CSS-Secrets-Example</a></div>
