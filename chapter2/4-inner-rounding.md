@@ -54,7 +54,7 @@
 <div class="wrap3">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
 ```
 <div class="wrap2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
-
+<br>
 <div class="wrap3">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
 
 <style>
@@ -85,7 +85,7 @@
 .wrap3 {
   background-color: tan;
   padding: 1em;
-  box-shadow: 0 0 0 .2em #fff;
+  box-shadow: 0 0 0 .2em red;
   border-radius: .5em;
   outline: .5em solid #655;
   
