@@ -36,14 +36,14 @@
 .wrap2 {
   background-color: tan;
   padding: 1em;
-  box-shadow: 0 0 0 .5em #655;
+  box-shadow: 0 0 0 .2em #655;
   border-radius: .5em;
   outline: .5em solid #655;
 }
 .wrap3 {
   background-color: tan;
   padding: 1em;
-  box-shadow: 0 0 0 .5em red;
+  box-shadow: 0 0 0 .2em red;
   border-radius: .5em;
   outline: .5em solid #655;
 }
@@ -75,7 +75,7 @@
 .wrap2 {
   background-color: tan;
   padding: 1em;
-  box-shadow: 0 0 0 .5em #655;
+  box-shadow: 0 0 0 .2em #655;
   border-radius: .5em;
   outline: .5em solid #655;
   
@@ -85,7 +85,7 @@
 .wrap3 {
   background-color: tan;
   padding: 1em;
-  box-shadow: 0 0 0 .5em #fff;
+  box-shadow: 0 0 0 .2em #fff;
   border-radius: .5em;
   outline: .5em solid #655;
   
